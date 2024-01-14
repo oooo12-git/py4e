@@ -7,4 +7,4 @@
 - 🍎 Start Date : 2023-12-26  
 - 🙌 End Date : 2024-01-14
 
-![py4e certificate](./images/2.png)(http://www.boostcourse.org/certificate/A20240114-397233)
+[![py4e certificate](./images/2.png)](http://www.boostcourse.org/certificate/A20240114-397233)
